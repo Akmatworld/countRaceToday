@@ -60,7 +60,7 @@
 	function addStylesForCnt() {
 	    const css = `.racecnt-p {
 	        position: absolute;
-	        left: 485px;
+	        left: 547px;
 	        top: 4px;
 	        font-size: 11px;
 	    }
